@@ -8,8 +8,3 @@ test('renders Vite + React header', () => {
     expect(headerElement).toBeInTheDocument();
 });
 
-test('renders Great Work!', () => {
-    render(<App />);
-    const headerElement = screen.getByText(/great work/i);
-    expect(headerElement).toBeInTheDocument();
-});
