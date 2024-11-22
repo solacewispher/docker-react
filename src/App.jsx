@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Hi there! If you are seeing this, it means Vite has been set up. Great work!
+        I was changed on the feature branch!
       </p>
     </>
   )
